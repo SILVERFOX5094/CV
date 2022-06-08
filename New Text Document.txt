@@ -1,6 +1,0 @@
-<h3> Interest And Hobbies</h3>
-        <ol>
-            <li><img src="swimming.png">Swimming</li>
-            <li><img src="runningfinal.png">Running</li>
-            <li><img src="cycling.png">Cycling </li>
-        </ol>
